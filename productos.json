@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "THE ORDINARY Suero para Ojos con Cafeína Caffeine Solution 5% + EGCG Depuffing Eye Serum 30 ml",
+    "precio": 21990,
+    "imagen": "https://modum.cl/wp-content/uploads/2024/11/the-ordinary-caffeine-solution-5-egcg-contorno-de-ojos-modum-skincare-wellness-shop.webp",
+    "url": "https://modum.cl/producto/the-ordinary-suero-para-ojos-con-cafeina-caffeine-solution-5-egcg-depuffing-eye-serum/"
+  },
+  {
+    "id": 2,
+    "nombre": "Skin Bronzing Drops ELF Cosmetics",
+    "precio": 25200,
+    "imagen": "https://modum.cl/wp-content/uploads/2025/11/ELF_GOTITAS_BRONCEADORAS_BRONZINGDROPS_MODUM57522_Closed_V2_R.avif",
+    "url": "https://modum.cl/producto/bronzing-drops-elf-chile-gotitas-bronceadoras/"
+  },
+  {
+    "id": 3,
+    "nombre": "The Ordinary PHA 5% Exfoliating Lip Serum",
+    "precio": 23200,
+    "imagen": "https://modum.cl/wp-content/uploads/2025/12/s2913911-main-zoom.webp",
+    "url": "https://modum.cl/producto/pha-5-exfoliating-lip-serum-the-ordinary/"
+  },
+  {
+    "id": 4,
+    "nombre": "Paleta de Rubores e Iluminadores Hollywood Blush & Glow Glide Palette",
+    "precio": 51900,
+    "imagen": "https://modum.cl/wp-content/uploads/2025/12/HOLLYWOOD-BLUSH-GLOW-GLIDE-MED-TO-DEEP.webp",
+    "url": "https://modum.cl/producto/paleta-de-rubores-e-iluminadores-hollywood-blush-glow-glide-palette/"
+  },
+  {
+    "id": 5,
+    "nombre": "Cosmetiquero Charlotte Tilbury Pillow Talk - Edición Limitada",
+    "precio": 71900,
+    "imagen": "https://modum.cl/wp-content/uploads/2025/12/modum_charlotte_tilbury_CTIL-WU428_V1.avif",
+    "url": "https://modum.cl/producto/cosmetiquero-charlotte-tilbury-pillow-talk-edicion-limitada/"
+  },
+  {
+    "id": 6,
+    "nombre": "Dr Teal's Spray De Melatonina",
+    "precio": 8990,
+    "imagen": "https://modum.cl/wp-content/uploads/2024/11/Spray-Dr-Teals-Melatonina-177-ml-modum-chile-skincare.webp",
+    "url": "https://modum.cl/producto/dr-teals-spray-de-melatonina/"
+  }
+]
